@@ -1,6 +1,6 @@
 # Siirin sivut
 
-Tervetuloa seurailemaan puuhiani puuhailujani!
+Tervetuloa seurailemaan puuhailujani!
 
 ## Sivut
 
