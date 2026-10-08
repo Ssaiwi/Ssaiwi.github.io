@@ -2,7 +2,7 @@
 
 Tervetuloa seurailemaan puuhailujani!
 
-## Sivut
+## Menu
 
 - [Minusta](minusta.md)
 - [Projektit](projektit.md)
