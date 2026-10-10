@@ -97,4 +97,4 @@ To doubt they were kneeling then.
  Basically, take the same guidance as above: don't be messy, but if you are, clean it up!  
 
 
-### [Etusivulle](index.md)
+### [Etusivulle](README.md)
