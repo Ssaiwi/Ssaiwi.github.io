@@ -6,4 +6,4 @@ Alta voit nähdä mitä kaikkea saan aikaan ja millä kurssilla:
 
 - [Lopputyö](indexSR.md)
 
-[Etusivulle](index.md)
+[Etusivulle](README.md)
