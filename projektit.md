@@ -1,6 +1,6 @@
 # Projektit
 
-Alta voit nähdä mitä kaikkea saan aikaan ja millä kurssilla:
+Alta voit nähdä mitä kaikkea saan aikaan milläkin kurssilla opintojeni edetessä!
 
 ### Ohjelmistokehittämisen työkalut:
 
