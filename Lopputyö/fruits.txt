@@ -1,0 +1,12 @@
+lime
+limes
+apple
+apples
+blueberry
+blueberries
+rhubarb
+rhubarbs
+lemon 
+lemons
+cherry
+cherries
