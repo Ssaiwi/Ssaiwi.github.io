@@ -1,3 +1,8 @@
-# Ohjelmoinnin perusteet: Pie Machine
+# Ohjelmoinnin perusteet:The Pie Machine
 
-Voit käyttää ohjelmaa dotnet runilla
+Linkit ohjelmaan voit löytää alta:
+
+[Program.cs](Program.cs)
+[Resepti.cs](Resepti.cs)
+[fruits.txt](fruits.txt)
+[Reseptikone.csproj](Reseptikone.csproj)
