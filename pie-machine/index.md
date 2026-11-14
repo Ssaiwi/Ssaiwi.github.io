@@ -1,8 +1,5 @@
 # Ohjelmoinnin perusteet:The Pie Machine
 
-Linkit ohjelmaan voit löytää alta:
+Hae inspiraatiota piirakan leipomiseen!
 
-[Program.cs](Program.cs)
-[Resepti.cs](Resepti.cs)
-[fruits.txt](fruits.txt)
-[Reseptikone.csproj](Reseptikone.csproj)
+[Projektiin](https://github.com/Ssaiwi/Ssaiwi.github.io/tree/main/pie-machine)
