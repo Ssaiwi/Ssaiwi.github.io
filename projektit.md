@@ -8,6 +8,6 @@ Alta voit nähdä mitä kaikkea saan aikaan milläkin kurssilla opintojeni edete
 
 ### Ohjelmoinnin perusteet
 
--[Projektityö](lopputyo.md)
+- [Projektityö](lopputyo.md)
 
 [Etusivulle](README.md)
